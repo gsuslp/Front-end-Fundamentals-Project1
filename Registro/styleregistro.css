@@ -1,0 +1,74 @@
+
+h2{
+    margin-top: 120px;
+    margin-left: 100px;
+    font-family: 'BIZ UDPGothic', sans-serif;
+    font-size: 25px;
+    
+}
+
+hr{
+    border: solid 1px lightgray;
+    margin-left: 80px;
+    width: 11cm;
+    
+}
+
+form{
+    margin-left: 100px;
+    font-family: 'Rubik', sans-serif;
+}
+
+input{
+    border-radius: 5px; 
+    border: solid 1px lightgrey;
+    font-size: 15px;
+}
+
+.opcion1{
+    margin-left: 165px;
+}
+
+.envio{
+    border-style: none;
+    width: 200px;
+    margin-left: 75px;
+    height: 30px;
+    background-color: rgb(156, 109, 123);
+    font-size: 15px;
+    color: white;
+}
+
+.botonsito1{
+    background: transparent;
+    border-style: none;
+    font-size: 25px;
+    color: blue;
+    margin-left: 90px;
+}
+
+.botonsito2{
+    background: transparent;
+    border-style: none;
+    font-size: 25px;
+    color: rgb(188, 176, 240);
+    margin-left: 90px;
+}
+
+.cuentaregistrada{
+    margin-left: 70px;
+    text-decoration: none;
+    color: black;
+}
+
+.caja{
+    font-size: 14px;
+}
+
+img{
+    position: relative;
+    float: right;
+    top: -800px;
+    height: 850px;
+    width: 700px;
+}

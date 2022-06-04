@@ -1,0 +1,71 @@
+form{
+    margin-top: 160px;
+    margin-left: 100px;
+    font-family: 'Rubik', sans-serif;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'BIZ UDPGothic', sans-serif;
+}
+
+hr{
+    border: solid 1px lightgray;
+    margin-left: 0px;
+    width: 11cm;
+
+}
+
+input{
+    border-radius: 5px; 
+    border: solid 1px lightgrey;
+    font-size: 15px;
+}
+
+.boton{
+    margin-left: 115px;
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    color: white;
+    background-color: rgb(48, 60, 78);
+    border: none;
+}
+
+.olvidada{
+    margin-left: 135px;
+}
+
+.crearcuenta{
+    margin-left: 150px;
+    text-decoration: none;
+    color: black;
+}
+
+.facebook{
+    margin-left: 215px;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(47, 89, 204);
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.instagram{
+    margin-left: 215px;
+    font-size: 15px;
+    background-color: rgb(224, 155, 99);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
+
+img{
+    position: relative;
+    float: right;
+    top: -600px;
+    width: 700px; 
+    height: 900px;  
+}
